@@ -1,0 +1,18 @@
+.Header-main {
+    background-color: #000000;
+    height: 190px;
+    color: #F7F6F2;
+    font-size: 20pt;
+
+}
+
+.Header-main-box {
+    float: left;
+    padding: 30px;
+}
+
+
+.App-logo {
+    max-height: 190px
+
+}
