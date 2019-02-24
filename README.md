@@ -1,3 +1,11 @@
+
+Pandr
+
+I created this app in order to learn React. Nothing interesting here at the moment, but the plan is to make a movie recommendation app that utilises machine learning to create personalised recommendations. 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
